@@ -1994,7 +1994,9 @@ input[type="tel"], input[type="password"], textarea,
 #edd_checkout_form_wrap,
 header.header nav, .hero, #comments .url,
 .form-submit input[type="submit"] {
-  font-family: 'Amatic SC', 'Heveltica Neue', Arial, sans-serif;
+font-family: 'Source Code Pro', monospace;
+/*font-family: 'Imbue', serif;*/
+/*font-family: 'Amatic SC', 'Heveltica Neue', Arial, sans-serif;*/
 }
 
 /* Font Sizes */
